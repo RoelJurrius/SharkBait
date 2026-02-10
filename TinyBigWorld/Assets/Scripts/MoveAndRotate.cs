@@ -7,7 +7,6 @@ public class MoveAndRotate : MonoBehaviour
 
     private float _movementX;
     private float _movementY;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void OnMove(InputValue movementValue)
     {
         Vector2 movementVector = movementValue.Get<Vector2>();
@@ -19,7 +18,8 @@ public class MoveAndRotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 movement = new Vector3(-_movementY, _movementX, 0f);
+        Vector3 movement = new Vector3(-_movementY, _movementX, 0);
         transform.Rotate(movement * (Time.deltaTime * speed));
+        
     }
 }
