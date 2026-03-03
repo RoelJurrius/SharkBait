@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43.2
+    y: 0
     width: 1536
     height: 36
   m_SerializedDataModeController:
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 609.4
     height: 690.8
   m_SerializedDataModeController:
@@ -642,8 +642,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 610.4
-    y: 79.200005
+    x: 1
+    y: 24
     width: 422
     height: 289.2
   m_SerializedDataModeController:
@@ -713,8 +713,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 610.4
-    y: 394.4
+    x: 1
+    y: 339.2
     width: 422
     height: 375.59998
   m_SerializedDataModeController:
@@ -765,8 +765,7 @@ MonoBehaviour:
       m_Data: 54462
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 54462
-    - m_Data: 1000000000
+    - m_Data: 45740
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -797,7 +796,9 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 45740
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -878,8 +879,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1034.4
-    y: 79.200005
+    x: 1035.4
+    y: 24
     width: 500.59998
     height: 690.8
   m_SerializedDataModeController:
