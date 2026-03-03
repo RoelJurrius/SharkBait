@@ -15,6 +15,9 @@
 *.sln
 *.user
 *.userprefs
+*.dwlt
+*.asset
+
 
 .DS_Store
 Thumbs.db
