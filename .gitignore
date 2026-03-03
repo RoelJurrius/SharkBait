@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[Uu]serSettings/
 
 .vscode/
 .vs/
@@ -14,6 +15,9 @@
 *.sln
 *.user
 *.userprefs
+*.dwlt
+*.asset
+
 
 .DS_Store
 Thumbs.db
