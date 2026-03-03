@@ -6,6 +6,8 @@ public class FollowPlayerLight : MonoBehaviour
 
     void LateUpdate()
     {
+        if (player == null) return;
+
         transform.position = player.position;
     }
 }
