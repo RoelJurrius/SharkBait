@@ -1,0 +1,252 @@
+{
+   "accessors" : [
+      {
+         "bufferView" : 0,
+         "byteOffset" : 0,
+         "componentType" : 5123,
+         "count" : 1056,
+         "max" : [ 1055 ],
+         "min" : [ 0 ],
+         "name" : "buffer-0-accessor-indices-buffer-0-mesh-0",
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 1056,
+         "max" : [ 0.2900969982147217, 1.761415004730225, 0.2900969982147217 ],
+         "min" : [ -0.7238370180130005, 0, -0.4886150062084198 ],
+         "name" : "buffer-0-accessor-position-buffer-0-mesh-0",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 12672,
+         "componentType" : 5126,
+         "count" : 1056,
+         "max" : [ 0.9990010261535645, 1, 0.9990010261535645 ],
+         "min" : [ -0.9990010261535645, -0.965919017791748, -0.9990010261535645 ],
+         "name" : "buffer-0-accessor-normal-buffer-0-mesh-0",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 1056,
+         "max" : [ 0.9732499718666077, 0 ],
+         "min" : [ 0, -0.9988560080528259 ],
+         "name" : "buffer-0-accessor-texcoord-buffer-0-mesh-0",
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 0,
+         "max" : [ 0, 0, 0, 0 ],
+         "min" : [ 0, 0, 0, 0 ],
+         "name" : "buffer-0-accessor-color-buffer-0-mesh-0",
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 0,
+         "byteOffset" : 2112,
+         "componentType" : 5123,
+         "count" : 1002,
+         "max" : [ 1001 ],
+         "min" : [ 0 ],
+         "name" : "buffer-0-accessor-indices-buffer-0-mesh-0",
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 25344,
+         "componentType" : 5126,
+         "count" : 1002,
+         "max" : [ 0.3168300092220306, 1.246654987335205, 0.3168300092220306 ],
+         "min" : [ -0.3168300092220306, 0, -0.3168300092220306 ],
+         "name" : "buffer-0-accessor-position-buffer-0-mesh-0",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 37368,
+         "componentType" : 5126,
+         "count" : 1002,
+         "max" : [ 0.9989349842071533, 1, 0.9989349842071533 ],
+         "min" : [ -0.9989349842071533, -1, -0.9989349842071533 ],
+         "name" : "buffer-0-accessor-normal-buffer-0-mesh-0",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 8448,
+         "componentType" : 5126,
+         "count" : 1002,
+         "max" : [ 0.7087640166282654, 0 ],
+         "min" : [ 0, -0.9965760111808777 ],
+         "name" : "buffer-0-accessor-texcoord-buffer-0-mesh-0",
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 0,
+         "max" : [ 0, 0, 0, 0 ],
+         "min" : [ 0, 0, 0, 0 ],
+         "name" : "buffer-0-accessor-color-buffer-0-mesh-0",
+         "type" : "VEC4"
+      }
+   ],
+   "asset" : {
+      "generator" : "Obj2GltfConverter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+         "buffer" : 0,
+         "byteLength" : 4116,
+         "byteOffset" : 0,
+         "byteStride" : 0,
+         "name" : "buffer-0-bufferview-ushort",
+         "target" : 34963
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 16464,
+         "byteOffset" : 4120,
+         "byteStride" : 8,
+         "name" : "buffer-0-bufferview-vec2",
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 49392,
+         "byteOffset" : 20592,
+         "byteStride" : 12,
+         "name" : "buffer-0-bufferview-vec3",
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0,
+         "name" : "buffer-0-bufferview-vec4"
+      }
+   ],
+   "buffers" : [
+      {
+         "byteLength" : 69984,
+         "name" : "buffer-0",
+         "uri" : "PinaColada.bin"
+      }
+   ],
+   "images" : [
+      {
+         "mimeType" : "image/png",
+         "name" : "PinaColada_PinaColada_Mat-image",
+         "uri" : "PinaColada_BaseColor.png"
+      },
+      {
+         "mimeType" : "image/png",
+         "name" : "PinaColada_Transp_Mat-image",
+         "uri" : "PinaColada_BaseColor.png"
+      }
+   ],
+   "materials" : [
+      {
+         "alphaMode" : "BLEND",
+         "doubleSided" : true,
+         "name" : "PinaColada_PinaColada_Mat",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 1, 1, 1, 1 ],
+            "baseColorTexture" : {
+               "index" : 0,
+               "texCoord" : 0
+            },
+            "metallicFactor" : 0,
+            "roughnessFactor" : 0.9699476628648295
+         }
+      },
+      {
+         "alphaMode" : "BLEND",
+         "doubleSided" : true,
+         "name" : "PinaColada_Transp_Mat",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 1, 1, 1, 1 ],
+            "baseColorTexture" : {
+               "index" : 1,
+               "texCoord" : 0
+            },
+            "metallicFactor" : 0,
+            "roughnessFactor" : 0.9699476628648295
+         }
+      }
+   ],
+   "meshes" : [
+      {
+         "name" : "buffer-0-mesh-0",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+                  "TEXCOORD_0" : 3
+               },
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            },
+            {
+               "attributes" : {
+                  "NORMAL" : 7,
+                  "POSITION" : 6,
+                  "TEXCOORD_0" : 8
+               },
+               "indices" : 5,
+               "material" : 1,
+               "mode" : 4
+            }
+         ]
+      }
+   ],
+   "nodes" : [
+      {
+         "mesh" : 0,
+         "name" : "node-0"
+      }
+   ],
+   "samplers" : [
+      {
+         "name" : "PinaColada_PinaColada_Mat-sampler",
+         "wrapS" : 10497,
+         "wrapT" : 10497
+      },
+      {
+         "name" : "PinaColada_Transp_Mat-sampler",
+         "wrapS" : 10497,
+         "wrapT" : 10497
+      }
+   ],
+   "scenes" : [
+      {
+         "name" : "scene-0",
+         "nodes" : [ 0 ]
+      }
+   ],
+   "textures" : [
+      {
+         "name" : "PinaColada_PinaColada_Mat-texture",
+         "sampler" : 0,
+         "source" : 0
+      },
+      {
+         "name" : "PinaColada_Transp_Mat-texture",
+         "sampler" : 1,
+         "source" : 1
+      }
+   ]
+}
